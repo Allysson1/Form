@@ -1,0 +1,20 @@
+@charset "UTF-8";
+
+body {
+  overflow-x: hidden;
+  background-color: #ed7d31;
+}
+
+
+
+  p, a {  
+    font-family: "Roboto Slab", serif;
+    font-size: 1.2em;
+  }
+
+
+  /* mobile first */
+  .borda {
+    background-color: #fff;
+    box-shadow: 0 0 1em #464646;
+  }
